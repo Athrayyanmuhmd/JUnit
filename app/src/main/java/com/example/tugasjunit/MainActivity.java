@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     private Button addButton;
     private Button subtractButton;
 
-    private com.example.simplecalculator.Calculator calculator;
+    private Calculator calculator;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // Initialize calculator
-        calculator = new com.example.simplecalculator.Calculator();
+        calculator = new Calculator();
 
         // Find views
         firstNumberEditText = findViewById(R.id.firstNumberEditText);
