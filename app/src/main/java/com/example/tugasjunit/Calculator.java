@@ -1,4 +1,4 @@
-package com.example.simplecalculator;
+package com.example.tugasjunit;
 
 public class Calculator {
     /**
