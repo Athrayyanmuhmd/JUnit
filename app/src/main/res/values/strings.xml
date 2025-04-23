@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TugasJUnit</string>
+    <string name="app_title">Simple Calculator</string>
+    <string name="hint_first_number">Enter first number</string>
+    <string name="hint_second_number">Enter second number</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_subtract">Subtract</string>
+    <string name="result_placeholder">Result will be shown here</string>
+</resources>
